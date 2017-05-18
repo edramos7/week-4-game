@@ -1,0 +1,138 @@
+
+body{
+	background-image: url("../images/vichy.png");
+}
+
+#titulo{
+	background-color: blue; 
+	color: yellow;
+	 width: 250px; 
+	 height: 80px; 
+	 font-size: 30px; 
+	 text-align: center; 
+	 vertical-align: middle;
+	  padding-top: 40px;
+	  margin-left: 10px;
+	  font-weight: bolder;
+	  border-style: solid;
+	  border-width: 2px;
+	  border-color: black;
+}
+
+#inst{
+	margin-top: 10px;
+	width: 400px;
+	font-size: 16px;
+	background-color: #43e2ca;
+	height: 250px;
+	text-decoration-style: bold;
+	color: blue;
+	margin-left: 10px;
+	font-weight: bolder;
+	padding: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+
+
+}
+#points{
+	float: left;
+	width: 200px;
+	height: 75px;
+	background-color: lightblue;
+	margin-left: 10px;
+	display: inline-block;
+	margin-top: 10px;
+	font-weight: bold;
+	text-align: center;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	font-size: 40px;
+	text-align: center;
+	vertical-align: middle;
+
+}
+#status{
+	float: left;
+	width: 200px;
+	height: 75px;
+	background-color:lightgreen;
+	margin-top: 10px;
+	margin-left: 10px;
+	text-align: center;
+	font-weight: bold;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+
+}
+
+.fotos{
+	clear: left;
+}
+#pic1{
+	float: left;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 5px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	
+}
+#pic2{
+	float: left;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 5px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+#pic3{
+	float: left;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 5px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+#pic4{
+	float: left;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 5px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+.resultados{
+	clear: left;
+}
+#final{
+	float: left;
+	width: 200px;
+	height: 100px;
+	background-color: teal;
+	color: white;
+	margin-left: 10px;
+	margin-top: 10px;
+	text-align: center;
+	display: inline-block;
+}
+#score{
+	float: left;
+	width: 200px;
+	height: 100px;
+	background-color: black;
+	color: white;
+	display: inline-block;
+	margin-top: 10px;
+	font-size: 40px;
+	text-align: center;
+	vertical-align: middle;
+}
+
